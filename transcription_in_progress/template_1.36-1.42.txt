@@ -1,0 +1,29 @@
+# 1.36-1.42
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.36	Ἀπόλλωνι ἄνακτι , τὸν ἠΰκομος τέκε Λητώ ·
+urn:cts:greekLit:tlg0012.tlg001.allen:1.36	*a)po/llwni a)/nakti , to\n h)u/+komos te/ke *lhtw/ #
+urn:cts:greekLit:tlg0012.tlg001.e4:1.36		*a)po/llwni a)/nakti , to\n h)u/+komos te/ke *lhtw/ #
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.37	κλῦθί μευ ἀργυρότοξʼ , ὃς Χρύσην ἀμφιβέβηκας
+urn:cts:greekLit:tlg0012.tlg001.allen:1.37	klu=qi/ meu a)rguro/toc# , o(\s *xru/shn a)mfibe/bhkas
+urn:cts:greekLit:tlg0012.tlg001.e4:1.37		klu=qi/ meu a)rguro/toc# , o(\s *xru/shn a)mfibe/bhkas
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.38	Κίλλάν τε ζαθέην Τενέδοιό τε ἶφι ἀνάσσεις ,
+urn:cts:greekLit:tlg0012.tlg001.allen:1.38	*ki/lla/n te zaqe/hn *tene/doio/ te i)=fi a)na/sseis ,
+urn:cts:greekLit:tlg0012.tlg001.e4:1.38		*ki/lla/n te zaqe/hn *tene/doio/ te i)=fi a)na/sseis ,
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.39	Σμινθεῦ εἴ ποτέ τοι χαρίεντʼ ἐπὶ νηὸν ἔρεψα ,
+urn:cts:greekLit:tlg0012.tlg001.allen:1.39	*sminqeu= ei)/ pote/ toi xari/ent# e)pi\ nho\n e)/reya ,
+urn:cts:greekLit:tlg0012.tlg001.e4:1.39		*sminqeu= ei)/ pote/ toi xari/ent# e)pi\ nho\n e)/reya ,
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.40	ἢ εἰ δή ποτέ τοι κατὰ πίονα μηρίʼ ἔκηα
+urn:cts:greekLit:tlg0012.tlg001.allen:1.40	h)\ ei) dh/ pote/ toi kata\ pi/ona mhri/# e)/kha
+urn:cts:greekLit:tlg0012.tlg001.e4:1.40		h)\ ei) dh/ pote/ toi kata\ pi/ona mhri/# e)/kha
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.41	ταύρων ἠδʼ αἰγῶν , τὸ δέ μοι κρήηνον ἐέλδωρ ·
+urn:cts:greekLit:tlg0012.tlg001.allen:1.41	tau/rwn h)d# ai)gw=n , to\ de/ moi krh/hnon e)e/ldwr #
+urn:cts:greekLit:tlg0012.tlg001.e4:1.41		tau/rwn h)d# ai)gw=n , to\ de/ moi krh/hnon e)e/ldwr #
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.42	τίσειαν Δαναοὶ ἐμὰ δάκρυα σοῖσι βέλεσσιν .
+urn:cts:greekLit:tlg0012.tlg001.allen:1.42	ti/seian *danaoi\ e)ma\ da/krua soi=si be/lessin .
+urn:cts:greekLit:tlg0012.tlg001.e4:1.42		ti/seian *danaoi\ e)ma\ da/krua soi=si be/lessin .
