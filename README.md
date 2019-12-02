@@ -7,6 +7,8 @@ Editors:
 - W. Burton
 - Ian Martens 
 - CJ Wilson
+
+
 Furman University, Department of Classics
 
 **Status: Active Development** (See Milstones.md)
