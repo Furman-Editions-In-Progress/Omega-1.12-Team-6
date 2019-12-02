@@ -7,7 +7,7 @@ Editors:
 - W. Burton
 - Ian Martens 
 - CJ Wilson
-- volleyballjake23
+------- Jake Burrus
 
 
 Furman University, Department of Classics
