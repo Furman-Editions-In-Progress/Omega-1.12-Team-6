@@ -5,8 +5,8 @@ urn:cts:greekLit:tlg0012.tlg001.allen:1.36	*a)po/llwni a)/nakti , to\n h)u/+komo
 urn:cts:greekLit:tlg0012.tlg001.e4:1.36		*a)po/llwni a)/nakti , to\n h)u/+komos te/ke *lhtw/ :
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.37	κλῦθί μευ ἀργυρότοξʼ , ὃς Χρύσην ἀμφιβέβηκας
-urn:cts:greekLit:tlg0012.tlg001.allen:1.37	klu=qi/ meu a)rguro/toc# , o(\s *xru/shn a)mfibe/bhkas
-urn:cts:greekLit:tlg0012.tlg001.e4:1.37		klu=qi/ meu a)rguro/toc# , o(\s *xru/shn a)mfibe/bhkas
+urn:cts:greekLit:tlg0012.tlg001.allen:1.37	klu=qi/ meu a)rguro/toc' , o(\s *xru/shn a)mfibe/bhkas
+urn:cts:greekLit:tlg0012.tlg001.e4:1.37		klu=qi/ meu a)rguro/toc' , o(\s *xru/shn a)mfibe/bhkas
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.38	Κίλλάν τε ζαθέην Τενέδοιό τε ἶφι ἀνάσσεις ,
 urn:cts:greekLit:tlg0012.tlg001.allen:1.38	*ki/lla/n te zaqe/hn *tene/doio/ te i)=fi a)na/sseis ,
