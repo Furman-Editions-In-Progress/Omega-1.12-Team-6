@@ -1,4 +1,4 @@
-# Editorial Work, Group IV
+# Editorial Work, Group VI
 
 MS Escorial Omega 1.12
 
