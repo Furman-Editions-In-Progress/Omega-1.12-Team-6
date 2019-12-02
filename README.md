@@ -7,6 +7,7 @@ Editors:
 - W. Burton
 - Ian Martens 
 - CJ Wilson
+-Jake Burrus
 
 
 Furman University, Department of Classics
