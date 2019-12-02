@@ -1,8 +1,8 @@
 # 1.36-1.42
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.36	Ἀπόλλωνι ἄνακτι , τὸν ἠΰκομος τέκε Λητώ ·
-urn:cts:greekLit:tlg0012.tlg001.allen:1.36	*a)po/llwni a)/nakti , to\n h)u/+komos te/ke *lhtw/ #
-urn:cts:greekLit:tlg0012.tlg001.e4:1.36		*a)po/llwni a)/nakti , to\n h)u/+komos te/ke *lhtw/ #
+urn:cts:greekLit:tlg0012.tlg001.allen:1.36	*a)po/llwni a)/nakti , to\n h)u/+komos te/ke *lhtw/ :
+urn:cts:greekLit:tlg0012.tlg001.e4:1.36		*a)po/llwni a)/nakti , to\n h)u/+komos te/ke *lhtw/ :
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.37	κλῦθί μευ ἀργυρότοξʼ , ὃς Χρύσην ἀμφιβέβηκας
 urn:cts:greekLit:tlg0012.tlg001.allen:1.37	klu=qi/ meu a)rguro/toc# , o(\s *xru/shn a)mfibe/bhkas
