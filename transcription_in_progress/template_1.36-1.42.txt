@@ -21,8 +21,8 @@ urn:cts:greekLit:tlg0012.tlg001.allen:1.40	h)\ ei) dh/ pote/ toi kata\ pi/ona mh
 urn:cts:greekLit:tlg0012.tlg001.e4:1.40		h)\ ei) dh/ pote/ toi kata\ pi/ona mhri/' e)/kha
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.41	ταύρων ἠδʼ αἰγῶν , τὸ δέ μοι κρήηνον ἐέλδωρ ·
-urn:cts:greekLit:tlg0012.tlg001.allen:1.41	tau/rwn h)d# ai)gw=n , to\ de/ moi krh/hnon e)e/ldwr #
-urn:cts:greekLit:tlg0012.tlg001.e4:1.41		tau/rwn h)d# ai)gw=n , to\ de/ moi krh/hnon e)e/ldwr #
+urn:cts:greekLit:tlg0012.tlg001.allen:1.41	tau/rwn h)d# ai)gw=n , to\ de/ moi krh/hnon e)e/ldwr :
+urn:cts:greekLit:tlg0012.tlg001.e4:1.41		tau/rwn h)d# ai)gw=n , to\ de/ moi krh/hnon e)e/ldwr :
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.42	τίσειαν Δαναοὶ ἐμὰ δάκρυα σοῖσι βέλεσσιν .
 urn:cts:greekLit:tlg0012.tlg001.allen:1.42	ti/seian *danaoi\ e)ma\ da/krua soi=si be/lessin .
