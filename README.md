@@ -1,10 +1,10 @@
-# Editorial Work, Group X
+# Editorial Work, Group IV
 
 MS Escorial Omega 1.12
 
 Editors:
 
-- A. Amundssen
+- W. Burton
 - B. Bonari
 - C. Chung
 
